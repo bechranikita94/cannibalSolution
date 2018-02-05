@@ -1,0 +1,6 @@
+C:\Users\Bhargav Mistri\Documents\Visual Studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
+C:\Users\Bhargav Mistri\Documents\Visual Studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Bhargav Mistri\Documents\Visual Studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\cannibalsSolution.exe
+C:\Users\Bhargav Mistri\Documents\Visual Studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\cannibalsSolution.pdb
+C:\Users\Bhargav Mistri\Documents\Visual Studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\cannibalsSolution.exe
+C:\Users\Bhargav Mistri\Documents\Visual Studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\cannibalsSolution.pdb
