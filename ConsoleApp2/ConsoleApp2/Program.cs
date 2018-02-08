@@ -9,12 +9,34 @@ namespace cannibalsSolution
     {
         static void Main(string[] args)
         {
-            List<int> allnumbers = new List<int> { 21, 9, 5, 8, 10, 1, 3 };
-            List<int> targets = new List<int> { 10, 15 };
+            List<int> allnumbers = new List<int> { };
+            List<int> targets = new List<int> { };
+
+
+            Console.WriteLine("Hello. Please Entere  Numbers.");
+            string objAllnumbers = Console.ReadLine();
+
+            foreach (string number in objAllnumbers.Split(' '))
+            {
+                allnumbers.Add(int.Parse(number));
+            }
+
+
+            Console.WriteLine("Hello. Please Entere  Target.");
+
+
+            string objtargets = Console.ReadLine();
+
+            foreach (string objtarget in objtargets.Split(' '))
+            {
+                targets.Add(int.Parse(objtarget));
+            }
+
 
             foreach (var target in targets)
             {
                 Console.WriteLine($"There are {getCannibalCount(allnumbers, target)} total cannibals.");
+                Console.ReadLine();
             }
         }
 
